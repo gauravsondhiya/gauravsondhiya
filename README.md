@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sondhiya</h1>
-<h3 align="center">Java Full Stack Developer | Crafting Innovative Solutions for Seamless User Experiences | Expertise in Frontend & Backend Technologies</h3>
+<h3 align="center">Full Stack Developer | Crafting Innovative Solutions for Seamless User Experiences | Expertise in Frontend & Backend Technologies</h3>
 
 - 📫 How to reach me **gauravsondhiya1503@gmail.com**
 
