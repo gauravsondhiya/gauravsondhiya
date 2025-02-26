@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/gauravsondhiy20" target="blank"><img src="https://img.shields.io/twitter/follow/gauravsondhiy20?logo=twitter&style=for-the-badge" alt="gauravsondhiy20" /></a> </p>
 
-- 📫 How to reach me **gauravsondhiya1503@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
